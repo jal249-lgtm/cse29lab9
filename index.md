@@ -2,7 +2,7 @@
 
 **this is bold text**
 
-*this is italic test*
+*this is italic text*
 
 ## this is some code:
 ```
